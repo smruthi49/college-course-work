@@ -6,3 +6,4 @@
 3. Rail Fence
 4. Columnar Transposition
 5. PlayFair Cipher
+6. Vernam Cipher
