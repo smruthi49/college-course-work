@@ -6,6 +6,7 @@ def removeSpaces(plaintext):
             text += i
     return text
 
+
 def Digraph(plaintext):
     Digraph = []
     group = 0
