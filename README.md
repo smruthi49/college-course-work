@@ -6,3 +6,4 @@
 ### Semester 6
 1. Cyber Security
 2. High Performance Computing
+3. Image Processing Lab
