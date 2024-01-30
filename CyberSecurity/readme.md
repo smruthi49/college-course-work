@@ -7,3 +7,5 @@
 4. Columnar Transposition
 5. PlayFair Cipher
 6. Vernam Cipher
+7. Hill Cipher
+8. ROT13
