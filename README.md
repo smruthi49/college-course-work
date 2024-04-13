@@ -7,3 +7,5 @@
 1. Cyber Security
 2. High Performance Computing
 3. Image Processing Lab
+4. Natural Language Processing Lab
+5. Speech Signal Processing
