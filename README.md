@@ -9,3 +9,6 @@
 3. Image Processing Lab
 4. Natural Language Processing Lab
 5. Speech Signal Processing
+
+### Semester 7
+1. Reinforcement Learning
